@@ -135,8 +135,10 @@
   <ItemGroup>
     <ClCompile Include="Cell_Manager.cpp" />
     <ClCompile Include="Constants.cpp" />
+    <ClCompile Include="Game_Manager.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Tile.cpp" />
+    <ClCompile Include="UI_Manager.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

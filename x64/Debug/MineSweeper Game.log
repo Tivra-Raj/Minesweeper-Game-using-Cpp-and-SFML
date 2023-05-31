@@ -1,0 +1,118 @@
+﻿  Cell_Manager.cpp
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(212,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(213,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(247,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(248,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Constants.cpp
+  Game_Manager.cpp
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(212,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(213,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(247,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(248,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(84,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(85,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Main.cpp
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(212,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(213,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(247,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(248,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(84,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(85,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Tile.cpp
+  UI_Manager.cpp
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(212,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(213,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(247,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\Cell_Manager.cpp(248,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(84,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\UI_Manager.cpp(85,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  MineSweeper Game.vcxproj -> C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\x64\Debug\MineSweeper Game.exe
