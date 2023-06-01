@@ -90,7 +90,7 @@ public:
             gameUI.UpdateUI(gameGrid->getFlagCount(), gameStatus);
             window.clear();
             gameGrid->DrawGrid(window, gameStatus);
-            gameUI.DrawUI(window);
+            gameUI.DrawUI(window, gameStatus);
             window.display();
         }
     }
