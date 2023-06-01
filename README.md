@@ -1,4 +1,4 @@
-# Minesweeper-Game-using-Cpp-and-SFML By Tivr Raj
+# Minesweeper-Game-using-Cpp-and-SFML By Tivra Raj
 
 - Minesweeper is a logic puzzle video game genre. The game features a grid of clickable squares, with hidden "mines" scattered throughout the board. The objective is to clear the board without detonating any mines, with help from clues about the number of neighboring mines in each field. 
 - In the game, mines are scattered throughout a board, which is divided into cells. 
