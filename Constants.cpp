@@ -25,7 +25,7 @@ using namespace sf;
 #define NUMBERS_SPRITE_PATH "Assets/Sprites/numbers.png"
 
 //Mine
-#define MINE_COUNT 2
+#define MINE_COUNT 40
 
 //UI
 
