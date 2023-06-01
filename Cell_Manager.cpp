@@ -200,7 +200,6 @@ public:
 				}
 			}
 		}
-
 		return mine_Around;
 	}
 
