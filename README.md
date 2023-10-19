@@ -20,9 +20,30 @@
 
 # My work
 
-- I use C++ for the logical part like opening of cell, placement of mine, counting adjacent mines, gameplay status.
+- I use C++ and Queue Data Structure for the logical part like opening of cell, placement of mine, counting adjacent mines, gameplay status.
 - While I use SFML (Simple & fast multimedia language) for my graphical representation of my game like drawing tile, mine, UI etc.<br>(don't want to use boring text based representation) <img src="https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/55bc1a72-61cd-4ee2-84c4-d2069d071987" alt="face-with-tongue" width="25" />
 
 ---
 
-# Small video of gameplay showing my game
+# Video and Play
+
+- Watch small video of game : 
+- Want to play : <a href="https://kingpheonix.itch.io/minesweeper" target="_blank">Click Here</a>
+
+---
+
+# ScreenShots
+
+![Screenshot (318)](https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/3f7aaf26-e513-4e80-833f-d1842ebe0991)
+
+![Screenshot 2023-10-19 191732](https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/6b28ef18-d124-48ff-9d5d-2614698be757)
+
+![Screenshot 2023-10-19 192016](https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/83c9db6c-ef49-40d6-b54f-1e1abd8c3a93)
+
+![Screenshot 2023-10-19 191859](https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/e12349ee-e620-4119-96ff-2e2fccb0bb96)
+
+---
+
+# Credits
+
+- **Thanks Mayank Grover, Malhar Devasthali, and Arindam bharti for all the supports.**
