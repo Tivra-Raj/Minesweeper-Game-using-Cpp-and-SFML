@@ -1,0 +1,2 @@
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\x64\Release\MineSweeper Game.exe
+C:\Users\Tivra\OneDrive\Desktop\My Git\Minesweeper-Game-using-Cpp-and-SFML\MineSweeper\x64\Release\MineSweeper Game.exe
