@@ -6,6 +6,12 @@ class UIManager
 	Texture UIBgTexture;
 	Sprite UI_BG_Sprite;
 
+	Font gameTitleFont;
+	Text gameTitleText;
+
+	Font creatorNameFont;
+	Text creatorNameText;
+
 	Font buttonFont;
 
 	Texture RestartButtonTexture;
@@ -37,13 +43,29 @@ public:
 		Vector2f targetSize(SPRITE_SIZE, SPRITE_SIZE);
 
 		//font
+		gameTitleFont.loadFromFile(GAME_TITLE_FONT_PATH);
+		creatorNameFont.loadFromFile(CREATOR_NAME_FONT_PATH);
 		buttonFont.loadFromFile(BUTTON_FONT);
 
 		//UI
 		UIBgTexture.loadFromFile(UIBG_SPRITE_PATH);
 		UI_BG_Sprite.setTexture(UIBgTexture);
-		UI_BG_Sprite.setScale(1.2f, 3.0f);
+		UI_BG_Sprite.setScale(1.2f, 2.7f);
 		UI_BG_Sprite.setPosition(UIBG_SPRITE_POSX, UIBG_SPRITE_POSY);
+
+		//Game Title
+		gameTitleText.setFont(gameTitleFont);
+		gameTitleText.setFillColor(GAME_TITLE_COLOR);
+		gameTitleText.setCharacterSize(GAME_TITLE_FONT_SIZE);
+		gameTitleText.setString(GAME_TITLE_TEXT);
+		gameTitleText.setPosition(GAME_TITLE_TEXT_POS);
+
+		//Creator Name
+		creatorNameText.setFont(creatorNameFont);
+		creatorNameText.setFillColor(CREATOR_NAME_COLOR);
+		creatorNameText.setCharacterSize(CREATOR_NAME_FONT_SIZE);
+		creatorNameText.setString(CREATOR_NAME_TEXT);
+		creatorNameText.setPosition(CREATOR_NAME_TEXT_POS);
 
 		//Restart Button
 		RestartButtonTexture.loadFromFile(UI_BUTTON_SPRITE_PATH);
@@ -117,14 +139,14 @@ public:
 		if (pos_x > RESTART_BUTTON_POSX && pos_x < RESTART_BUTTON_POSX + 305 && pos_y > RESTART_BUTTON_POSY && pos_y < RESTART_BUTTON_POSY + 95) 
 		{
 			Restart_Button_Sprite.setScale(UI_BUTTON_HOVERED_WIDTH, UI_BUTTON_HOVERED_HEIGHT);
-			Restart_Button_Sprite.setPosition(1400, 545);
+			Restart_Button_Sprite.setPosition(1350, 695);
 			RestartText.setFillColor(Color::Yellow);
 			return { true, false };
 		}
 		else if (pos_x > QUIT_BUTTON_POSX && pos_x < QUIT_BUTTON_POSX + 305 && pos_y > QUIT_BUTTON_POSY && pos_y < QUIT_BUTTON_POSY + 95)
 		{
 			Quit_Button_Sprite.setScale(UI_BUTTON_HOVERED_WIDTH, UI_BUTTON_HOVERED_HEIGHT);
-			Quit_Button_Sprite.setPosition(1400, 695);
+			Quit_Button_Sprite.setPosition(1350, 845);
 			QuitText.setFillColor(Color::Yellow);
 			return { false, true };
 		}
@@ -145,6 +167,9 @@ public:
 	void DrawUI(RenderWindow& window, GameStatus gameStatus)
 	{
 		window.draw(UI_BG_Sprite);
+
+		window.draw(gameTitleText);
+		window.draw(creatorNameText);
 
 		window.draw(Restart_Button_Sprite);
 		window.draw(RestartText);
