@@ -27,7 +27,7 @@
 
 # Video and Play
 
-- Watch small video of game : 
+- Watch small video of game : <a href="https://www.youtube.com/watch?v=qtc7fnpMBwE" target="_blank">Minewsweeper</a>
 - Want to play : <a href="https://kingpheonix.itch.io/minesweeper" target="_blank">Click Here</a>
 
 ---
