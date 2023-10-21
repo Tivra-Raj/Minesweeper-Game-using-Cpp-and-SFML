@@ -21,7 +21,7 @@
 # My work
 
 - I use C++ and array, Queue Data Structure for the logical part like opening of cell, placement of mine, counting adjacent mines, gameplay status.
-- While I use SFML (Simple & fast multimedia language) for my graphical representation of my game like drawing tile, mine, UI etc.<br>(don't want to use boring text based representation) <img src="https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/55bc1a72-61cd-4ee2-84c4-d2069d071987" alt="face-with-tongue" width="25" />
+- While I use SFML (Simple & fast multimedia library) for my graphical representation of my game like drawing tile, mine, UI etc.<br>(don't want to use boring text based representation) <img src="https://github.com/Tivra-Raj/Minesweeper-Game-using-Cpp-and-SFML/assets/107213542/55bc1a72-61cd-4ee2-84c4-d2069d071987" alt="face-with-tongue" width="25" />
 
 ---
 
